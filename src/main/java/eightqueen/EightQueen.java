@@ -1,5 +1,8 @@
 package eightqueen;
 
+/**
+ * 八皇后问题
+ */
 public class EightQueen {
     private int[] queens ;//0-7的数字表示他们的位置
 
