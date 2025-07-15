@@ -1,5 +1,6 @@
 package eightqueen;
 
+//测试
 public class EightQueen {
     private int[] queens ;//0-7的数字表示他们的位置
 
